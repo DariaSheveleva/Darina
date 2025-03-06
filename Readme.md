@@ -1,4 +1,4 @@
-! [](./logo.png)
+! [](https://github.com/DariaSheveleva/Darina/blob/feature/code-documentation/logo.png)
 
 *NeuroStartup* - динамически развтвающийс я стартап, специализирующийся на поиске  с использованием новейших технологий искусственного интеллекта.
 
